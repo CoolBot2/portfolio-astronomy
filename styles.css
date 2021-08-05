@@ -1,0 +1,99 @@
+body{
+
+  font-family: 'roboto';
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border: thick dotted goldenrod;
+  background-image: url(https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWV0ZW9yfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+header,main,footer{
+  background: #333;
+  border: thick solid black;
+  border-radius: 15px;
+}
+
+a{
+  display: inline;
+  margin: 70px;
+  text-decoration: none;
+  color: chartreuse;
+
+
+
+}
+nav{
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+}
+h1{
+  color: rgb(245, 25, 25);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+table{
+margin: auto;
+}
+.dates{
+  text-align: centers;
+ margin: auto;
+  color: rgb(97, 94, 94);
+  display:none;
+
+}
+.par1,h1{
+  margin:10px ;
+}
+footer{
+  text-align: center;
+ color: whitesmoke;
+  background: #333;
+border: thick solid rgb(0, 0, 0);
+border-radius: 15px;
+}
+.about{
+  display: none;
+}
+li{
+  color: aquamarine;
+
+}
+.abouts{
+  display: none;
+
+}
+.par1,.par2,.par3{
+  color:white;
+}
+td{
+  color: white;
+}
+h4{
+  text-align: center;
+  color: white;
+}
+th{
+  color: aquamarine;
+}
+.email{
+  color: whitesmoke;
+
+
+}
+.pass{
+  margin-left:100pxs ;
+  color: whitesmoke;
+}
+form{
+  color: whitesmoke;
+  margin-left: 10px;
+  display: inline;
+}
+header{
+  background: #333;
+  border: thick solid black;
+  border-radius: 15px;
+}
